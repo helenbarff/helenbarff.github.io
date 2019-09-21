@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>home on Helen Barff</title>
+    <link>/</link>
+    <description>Recent content in home on Helen Barff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>biography</title>
+      <link>/biography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/biography/</guid>
+      <description>Education:
+MA Drawing, Camberwell College of Art, London, 2004
+BA (hons), Fine Art and Art History, Goldsmiths College, London, 1999
+Solo exhibitions:
+Memory of Clothes, Worthing Museum, February till June 2019 info
+Rabley Drawing Centre, Wiltshire, 2015 images
+Brood, Bend in the River, Gainsborough, 2011
+Residency Exhibition – Rabley Drawing Centre, Wiltshire, 2009 images
+Things from the Thames, BEARSPACE, London, 2005 images
+New Works II, selected new graduate, Farnham Maltings, Surrey, 1999</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>helen@helenbarff.co.uk</description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/news/</guid>
+      <description>Recent and upcoming:
+Auto//Fiction, Dyson Gallery, Royal College of Art, London. July 9th till 12th 2019.
+//
+Clothing Memories, Seminar event at University of Westminster, June 18th 2019, 4 till 8pm. Free but booking essential
+//
+Memory of Clothes, Worthing Museum. 23rd February till 8th June 2019.
+Memory of Clothes is an exhibition of sculptural work and a podcast documenting research by artist Helen Barff and writer Suzanne Joinson. The research explored links between autobiographical memory and clothing through Worthing Museum’s extensive clothing collection and personal memories of elderly residents at Guildcare care home.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,350 @@
+html,
+body,
+div,
+span,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+abbr,
+address,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+samp,
+small,
+strong,
+sub,
+sup,
+var,
+b,
+i,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent
+}
+
+body {
+  line-height: 1
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block
+}
+
+nav ul {
+  list-style: none
+}
+
+blockquote,
+q {
+  quotes: none
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: none
+}
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent
+}
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none
+}
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold
+}
+
+del {
+  text-decoration: line-through
+}
+
+abbr[title],
+dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0
+}
+
+input,
+select {
+  vertical-align: middle
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #666;
+  color: #fff;
+  font-family: 'Roboto';
+}
+
+a {
+  color: #fff;
+}
+
+.page-wrapper {
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 50px;
+}
+
+p {
+  margin: 0 0 0.5em 0;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+
+.header {
+  margin-bottom: 50px;
+  overflow: auto;
+}
+
+.name-and-slogan {
+  float: left;
+  margin-right: 50px;
+}
+
+.main-menu {
+  float: left;
+}
+
+.main-menu ul {
+  list-style: none;
+}
+
+.main-menu li {
+  display: inline;
+}
+
+.main-menu li a {
+  float: left;
+  margin: 0 10px 0 0;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  text-decoration: none;
+}
+
+.main-menu li a.active {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.page-title {
+  clear: left;
+  display: none;
+}
+
+.node-type-gallery-page .node-gallery-page .field-name-field-image .field-item {
+  width: 25%;
+  float: left;
+  padding: 20px;
+  text-align: center;
+}
+
+.node-type-gallery-page .node-gallery-page .field-name-field-image .field-item:nth-child(4n+1) {
+  clear: left;
+}
+
+.node-type-gallery-page .node-gallery-page .field-name-field-image .field-item img {
+  margin: auto;
+  display: block;
+}
+
+.node-type-gallery-page .node-gallery-page .field-name-body {
+  clear: both;
+}
+
+.site-name {
+  font-size: 250%;
+}
+
+.site-name a {
+  text-decoration: none;
+}
+
+.field-name-field-main-image {
+  text-align: center;
+}
+
+.flexslider {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+}
+
+.flexslider li {
+  text-align: center;
+}
+
+.flexslider .slides img {
+  width: auto;
+  display: inline;
+}
+
+.flexslider .flex-direction-nav a {
+  display: block;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.flex-direction-nav a:before {
+  content: '\3008';
+}
+
+.flex-direction-nav a.flex-next:before {
+  content: '\3009';
+}
+
+.flexslider .flex-next,
+.flexslider .flex-prev {
+  opacity: 1;
+}
+
+.flexslider .flex-prev {
+  left: 10px;
+}
+
+.flexslider .flex-next {
+  right: 10px;
+}
+
+.flex-control-paging li a {
+  background: #ccc;
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.flex-control-paging li a.flex-active {
+  background: #fff;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.flex-control-paging li a:hover {
+  background: #d6d6d6;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+@media screen and (max-width:800px) {
+  .page-title {
+    display: none;
+  }
+  .main-menu {
+    float: left;
+    clear: left;
+  }
+  .main-menu li a {
+    margin: 0 10px 10px 0;
+  }
+  .node-type-gallery-page .node-gallery-page .field-item {
+    width: 50%;
+  }
+  .node-type-gallery-page .node-gallery-page .field-item:nth-child(2n+1) {
+    clear: left;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .page-wrapper {
+    padding: 20px;
+  }
+  .node-type-gallery-page .node-gallery-page .field-item {
+    width: 100%;
+    clear: left;
+  }
+}

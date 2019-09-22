@@ -94,6 +94,14 @@ section {
   display: block
 }
 
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: "";
+  clear: both;
+  height: 0;
+}
+
 nav ul {
   list-style: none
 }
@@ -194,7 +202,6 @@ img {
 
 .header {
   margin-bottom: 50px;
-  overflow: hidden;
 }
 
 .name-and-slogan {

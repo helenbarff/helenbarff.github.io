@@ -194,7 +194,7 @@ img {
 
 .header {
   margin-bottom: 50px;
-  overflow: auto;
+  overflow: hidden;
 }
 
 .name-and-slogan {

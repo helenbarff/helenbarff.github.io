@@ -39,15 +39,6 @@ New Works II, selected new graduate, Farnham Maltings, Surrey, 1999</description
     </item>
     
     <item>
-      <title>home</title>
-      <link>/rabley/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/rabley/</guid>
-      <description>Residency at Rabley Drawing Centre, 2009 - situated on a working farm in a dry river valley, Wiltshire. Click on images to view.</description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +51,15 @@ Clothing Memories, Seminar event at University of Westminster, June 18th 2019, 4
 //
 Memory of Clothes, Worthing Museum. 23rd February till 8th June 2019.
 Memory of Clothes is an exhibition of sculptural work and a podcast documenting research by artist Helen Barff and writer Suzanne Joinson. The research explored links between autobiographical memory and clothing through Worthing Museum’s extensive clothing collection and personal memories of elderly residents at Guildcare care home.</description>
+    </item>
+    
+    <item>
+      <title>rabley</title>
+      <link>/rabley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/rabley/</guid>
+      <description>Residency at Rabley Drawing Centre, 2009 - situated on a working farm in a dry river valley, Wiltshire. Click on images to view.</description>
     </item>
     
   </channel>

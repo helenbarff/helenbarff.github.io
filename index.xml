@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>bearspace</title>
+      <link>/bearspace/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/bearspace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>biography</title>
       <link>/biography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -39,6 +48,15 @@ New Works II, selected new graduate, Farnham Maltings, Surrey, 1999</description
     </item>
     
     <item>
+      <title>liberties</title>
+      <link>/liberties/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/liberties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>news</title>
       <link>/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -60,6 +78,15 @@ Memory of Clothes is an exhibition of sculptural work and a podcast documenting 
       
       <guid>/rabley/</guid>
       <description>Residency at Rabley Drawing Centre, 2009 - situated on a working farm in a dry river valley, Wiltshire. Click on images to view.</description>
+    </item>
+    
+    <item>
+      <title>things from the thames</title>
+      <link>/thingsfromthethames/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/thingsfromthethames/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -126,6 +126,10 @@ a {
   background: transparent
 }
 
+strong {
+  font-weight: 700;
+}
+
 ins {
   background-color: #ff9;
   color: #000;
